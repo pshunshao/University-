@@ -35,6 +35,7 @@ Intel:
 OTHER RECOURCES:
 
 Case study : Motivation of Software Engineers: A Qualitative Case Study of a Research and Development Organisation
+	     Work motivators for software engineers: A case study
 
 Salaries average(UK) : https://www.glassdoor.co.uk/Salaries/london-software-engineer-salary-SRCH_IL.0,6_IM1035_KO7,24.htm
 
@@ -76,4 +77,8 @@ GIT
 JAVA
 
 Future Impact:
-	Moore's law : http://www.intel.com/content/www/us/en/history/museum-gordon-moore-law.html 
+	Moore's law : http://www.intel.com/content/www/us/en/history/museum-gordon-moore-law.html
+
+
+Graduate path : 
+	http://www.bristol.ac.uk/careers/be-inspired/bristol-graduates/computer-science/ 

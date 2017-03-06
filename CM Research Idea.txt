@@ -74,3 +74,6 @@ Hays SE:
 Most needed Language:
 GIT
 JAVA
+
+Future Impact:
+	Moore's law : http://www.intel.com/content/www/us/en/history/museum-gordon-moore-law.html 

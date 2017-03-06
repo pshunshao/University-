@@ -1,0 +1,76 @@
+Google:
+	Software Engineer - Beijing: https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-beijing-china-700930090&
+			London Parttime :https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-part-time-1-13-st-giles-high-st-london-uk-2270430047&
+			USA: https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-345-spear-st-san-francisco-ca-usa-5370016&f=true&
+
+	Selection Process :https://careers.google.com/how-we-hire/
+
+Amazon :
+	Software Eng  - Video game engine London : https://www.amazon.jobs/en/jobs/501642
+			Video Designs and UI :https://www.amazon.jobs/en/jobs/500605
+			Senior SE :https://www.amazon.jobs/en/jobs/498258
+
+	Benefit : https://www.amazon.jobs/en-gb/benefits/global
+	Development : https://www.amazon.com/p/feature/fsp92a2bhozr3wj?ref_=aa_bx_7&pf_rd_r=H5F6ECZVANEGW2V2XJBB&pf_rd_p=15d92b01-77c8-4374-90e8-e14fd6b636c6
+
+Nvidia:
+	Software eng : senior SE : https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/Senior-Software-Engineer_JR1905383
+		            AI developer : https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Wuerselen/AI-Developer-Technology-Engineer_JR1904828
+		           Hardware Developer : https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Compute-Performance-Developer-Technology-Engineer_JR1902921
+
+	UniversityGrad: http://www.nvidia.com/object/universityrecruiting-ncg.html
+	
+
+Intel: 
+	Low level SE (compiler etc)
+
+		: SE College Grad: http://jobs.intel.com/ShowJob/Id/1092751/Software-Development-Engineer/
+		     College Grad (C, C++) : http://jobs.intel.com/ShowJob/Id/1092758/Software-Development-Engineer-C,-C-/
+		  Experienced hire Senior SE :http://jobs.intel.com/ShowJob/Id/1092819/Senior-Development-Engineer/
+ 
+	Selection process/help : http://www.intel.com/content/www/us/en/jobs/hiring.html?
+	Benefit :http://www.intel.com/content/www/us/en/jobs/benefits.html
+	Job Map : http://jobs.intel.com/
+
+OTHER RECOURCES:
+
+Case study : Motivation of Software Engineers: A Qualitative Case Study of a Research and Development Organisation
+
+Salaries average(UK) : https://www.glassdoor.co.uk/Salaries/london-software-engineer-salary-SRCH_IL.0,6_IM1035_KO7,24.htm
+
+
+
+Other company information: (Glassdoor)
+
+Smarkets SE:
+Salary example : https://www.glassdoor.co.uk/Job/uk-software-engineer-jobs-SRCH_IL.0,2_IN2_KO3,20.htm?jl=1457330844
+Salary range (45k - 100k per year): may including stock options, benefit for qualified, and salary determined by peer review
+High Requirements (require high experience)
+
+Critical Software SE:
+	https://www.glassdoor.co.uk/Job/uk-software-engineer-jobs-SRCH_IL.0,2_IN2_KO3,20.htm?jl=2279150145
+	30k per year (can be discussed flexibly
+	Many Benefits
+
+Conversocial SE:
+	https://www.glassdoor.co.uk/Job/uk-software-engineer-jobs-SRCH_IL.0,2_IN2_KO3,20.htm?jl=1919529560
+	32-75k + stock options + annual conference allowance
+	Lunch included
+
+ARM Holding SE:
+	https://www.glassdoor.co.uk/Job/uk-software-engineer-jobs-SRCH_IL.0,2_IN2_KE3,20.htm
+	Very low level programming, design cpu architecture
+	Detailed HOLIDAYS
+
+360 Resourcing SE:
+	https://www.glassdoor.co.uk/Job/uk-software-engineer-jobs-SRCH_IL.0,2_IN2_KE3,20_IP2.htm
+	Salaries: 40k - 50k
+
+Hays SE:
+	https://www.glassdoor.co.uk/Job/uk-software-engineer-jobs-SRCH_IL.0,2_IN2_KE3,20_IP2.htm?jl=2328256469
+	Salaries: 40k + benefits
+
+
+Most needed Language:
+GIT
+JAVA

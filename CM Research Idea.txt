@@ -75,10 +75,18 @@ Hays SE:
 Most needed Language:
 GIT
 JAVA
+PYTHON
+JS
 
 Future Impact:
 	Moore's law : http://www.intel.com/content/www/us/en/history/museum-gordon-moore-law.html
 
 
 Graduate path : 
-	http://www.bristol.ac.uk/careers/be-inspired/bristol-graduates/computer-science/ 
+	http://www.bristol.ac.uk/careers/be-inspired/bristol-graduates/computer-science/
+
+
+General information:
+	Most of small business, even median, require no degree in computer science, however, strong experience in coding
+
+	But the degree is desirable(CS, MATH, or eng based degree) 

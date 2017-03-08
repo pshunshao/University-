@@ -29,6 +29,7 @@ Intel:
 		  Experienced hire Senior SE :http://jobs.intel.com/ShowJob/Id/1092819/Senior-Development-Engineer/
  
 	Selection process/help : http://www.intel.com/content/www/us/en/jobs/hiring.html?
+	Interview process : http://www.intel.com/content/www/us/en/jobs/interviewing.html
 	Benefit :http://www.intel.com/content/www/us/en/jobs/benefits.html
 	Job Map : http://jobs.intel.com/
 
@@ -85,6 +86,11 @@ Future Impact:
 Graduate path : 
 	http://www.bristol.ac.uk/careers/be-inspired/bristol-graduates/computer-science/
 
+Interview question:
+	https://www.glassdoor.co.uk/Interview/uk-software-engineer-interview-questions-SRCH_IL.0,2_IN2_KO3,20.htm
+
+Selection process time:
+	https://research-content.glassdoor.com/app/uploads/sites/2/2015/06/GD_Report_3.pdf
 
 General information:
 	Most of small business, even median, require no degree in computer science, however, strong experience in coding
